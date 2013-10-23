@@ -1,5 +1,7 @@
 # hk-plugin-sql
 
+SQL Console for [hk](https://github.com/heroku/hk)
+
 # Installation
 
 1. Add HKPATH environment into your .bashrc or something others.
