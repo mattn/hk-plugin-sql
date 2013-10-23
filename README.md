@@ -6,7 +6,7 @@
 2. Create plugins directory
     
     $ mkdir $HKPATH
-
+    
 3. Install sql command
     
     $ git clone https://github.com/mattn/hk-plugin-sql
