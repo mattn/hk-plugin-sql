@@ -3,6 +3,7 @@
 # Installation
 
 1. Add HKPATH environment into your .bashrc or something others.
+
   If you are using unix, `/usr/local/lib/hk/plugin` is default.
 
 2. Create plugins directory
