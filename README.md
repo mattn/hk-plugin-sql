@@ -16,6 +16,8 @@ SQL Console for [hk](https://github.com/heroku/hk)
 
         $ git clone https://github.com/mattn/hk-plugin-sql
         $ cd hk-plugin-sql
+        $ go get -u github.com/mattn/go-runewidth
+        $ go get -u github.com/lib/pq
         $ go build sql.go
         $ cp sql $HKPATH
 
